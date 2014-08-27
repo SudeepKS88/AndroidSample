@@ -87,6 +87,6 @@
          in order to avoid having your file be overridden by tools such as "android update project"
     -->
     <!-- version-tag: 1 -->
-    <import file="/Sudeep/AndroidCI/adt-bundle-mac-x86_64-20140702/sdk/tools/ant/build.xml" />
+    <import file="D:/adt-bundle-windows-x86-20140702/sdk/tools/ant/build.xml" />
 
 </project>
