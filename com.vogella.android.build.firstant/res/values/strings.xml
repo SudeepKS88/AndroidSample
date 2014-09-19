@@ -3,6 +3,7 @@
 
     <string name="app_name">Apache Ant build</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">This is a test commit</string>
+    <string name="hello_world">Hellow World</string>
+	<string name="test_text">This is a test commit</string>
 
 </resources>
